@@ -1,0 +1,28 @@
+name: MrBee
+favicon: null
+layout_spectrum: 0.5769881925079972
+typography_spectrum: 0.9739010266494006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4353122739121318
+  lightness: 0.7762408461421728
+  saturation: 0.5441049560904503
+  rhythmicContrast: 0.29870542068965733
+purpose: []
